@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Maheen Abbasi>`
-- **CCID:** `<maabbas1>`
+- **Full Name:** `Maheen Abbasi`
+- **CCID:** `maabbas1`
 
 ## References and Resources
 
